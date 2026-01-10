@@ -1,0 +1,14 @@
+html, body {
+  overflow-x: hidden;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes zoomSlow {
+  from { transform: scale(1); }
+  to   { transform: scale(1.08); }
+}
+
+.hero-zoom {
+  animation: zoomSlow 25s ease-in-out infinite alternate;
+}
