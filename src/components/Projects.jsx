@@ -6,24 +6,24 @@ const projects = [
     description:
       "A task management app designed to help users conquer their daily chaos with precision and style.",
     tech: ["React", "Firebase"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/jisnu-glitch/Syllabus_tracker",
+    live: "https://syllabus-tracker-sable.vercel.app/",
   },
   {
-    title: "Gotham Weather-Bot",
+    title: "Ticktill",
     description:
-      "A dynamic weather dashboard providing real-time forecasts with a dark, cinematic interface.",
-    tech: ["JavaScript", "API"],
-    github: "#",
-    live: "#",
+      "A simple, date-based countdown timer built using plain JavaScript",
+    tech: ["JavaScript"],
+    github: "https://github.com/jisnu-glitch/Ticktill-",
+    live: "https://jisnu-glitch.github.io/Ticktill-/",
   },
   {
-    title: "Arkham Analytics",
+    title: "Chappati Roundness Detector",
     description:
-      "Data analysis project uncovering patterns in public datasets, presented with compelling visualizations.",
-    tech: ["Python", "Pandas"],
-    github: "#",
-    live: "#",
+      "This project measures the roundness of a chapathi uploaded as image",
+    tech: ["Python", "OpenCV"],
+    github: "https://github.com/ShanRomio306/Chapathi-Roundness-Checker",
+    live: "https://chapathi-roundness-checker-hvxf.onrender.com/",
   },
 ];
 
