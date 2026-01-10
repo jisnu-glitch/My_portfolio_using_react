@@ -1,16 +1,43 @@
-# React + Vite
+# Jishnu Vijayan – Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Project Description
+This project is a personal portfolio website designed to showcase my profile, skills, and identity in a visually engaging way.  
+The website features a dark, cinematic yellow theme with glowing typography, responsive layout, smooth animations, and a modern hero section.  
+It is fully responsive across mobile, tablet, and desktop devices.
 
-Currently, two official plugins are available:
+The portfolio highlights my name, introduction, and design style while focusing on clean UI, performance, and user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Tech Stack Used
+- **React.js** – Component-based UI development
+- **Vite** – Fast build tool and development server
+- **Tailwind CSS** – Utility-first styling for responsive design
+- **Framer Motion** – Smooth animations and transitions
+- **JavaScript (ES6+)** – Application logic
+- **HTML5 & CSS3** – Structure and styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Live URL
+-> https://my-portfolio-using-react-ivory.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Deployment
+The project is deployed using **Vercel** with automatic deployments enabled.  
+Any updates pushed to the GitHub repository are automatically reflected on the live site.
+
+---
+
+##  Features
+- Fully responsive design (mobile, tablet, desktop)
+- Cinematic dark yellow theme
+- Glowing animated typography
+- Smooth entry animations
+- Optimized performance
+
+---
+
+##  Author
+**Jishnu Vijayan**
