@@ -31,7 +31,7 @@ export default function Projects() {
     useScrollReveal(".sr-project");
 
   return (
-    <section className="bg-batblack text-white py-20 px-6 ">
+    <section className="bg-batblack text-white py-20 px-6 " id="projects">
       <div className="max-w-6xl mx-auto">
         <h2 className="font-heading text-batyellow text-5xl text-center mb-12">
           Completed Missions

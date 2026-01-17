@@ -3,20 +3,15 @@ export default function About() {
     useScrollReveal(".sr-about", { origin: "left" });
 
   return (
-    <section className="bg-batblack text-white py-20 px-6">
+    <section className="bg-batblack text-white py-20 px-6 " id="about">
       <div className="max-w-5xl mx-auto">
         <h2 className="font-heading text-batyellow text-5xl text-center mb-10">
-          Origin Story
+          About me
         </h2>
 
         <div className="bg-batgrey border-4 border-batyellow p-8 text-center shadow-[10px_10px_0_#facc15] sr-about">
           <p className="text-lg leading-relaxed">
-            My journey began not in a shadowy alley, but in front of a glowing
-            screen, captivated by the power to create worlds from pure logic.
-            What started with a simple "Hello, World!" soon became a crusade
-            against inefficient code and clunky user experiences. Now, I wield
-            my skills in web development to build solutions that are powerful,
-            elegant, and impactful.
+            Hi, I’m <b className="text-yellow-200">Jishnu Vijayan</b>, a third-year BTech Computer Science and Engineering student at Rajiv Gandhi Institute of Technology (RIT), Kottayam. I enjoy learning how things work and building software that’s useful in real life. I like experimenting with new technologies, working on projects, and improving my coding and problem-solving skills step by step as I work towards becoming a software engineer.
           </p>
         </div>
       </div>

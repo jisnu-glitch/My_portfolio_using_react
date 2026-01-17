@@ -12,3 +12,14 @@ html, body {
 .hero-zoom {
   animation: zoomSlow 25s ease-in-out infinite alternate;
 }
+@keyframes pathGlow {
+  0% {
+    stroke-opacity: 0.4;
+  }
+  50% {
+    stroke-opacity: 1;
+  }
+  100% {
+    stroke-opacity: 0.4;
+  }
+}

@@ -4,7 +4,7 @@ export default function Contact() {
     useScrollReveal(".sr-contact", { origin: "right" });
 
   return (
-    <section className="bg-batblack text-white py-20 px-6  ">
+    <section className="bg-batblack text-white py-20 px-6 " id="contact" >
       <div className="max-w-4xl mx-auto text-center ">
         <h2 className="font-heading text-batyellow text-5xl mb-12">
           Signal The Hero

@@ -12,7 +12,7 @@ export default function Skills() {
     useScrollReveal(".sr-skill");
 
   return (
-    <section className="bg-batblack text-white py-20 ">
+    <section className="bg-batblack text-white py-20 " id="skills">
       <h2 className="font-heading text-batyellow text-5xl text-center mb-14">
         Gadget Arsenal
       </h2>
