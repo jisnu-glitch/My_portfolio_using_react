@@ -6,6 +6,7 @@ const skills = [
   { name: "HTML5", icon: "fa-html5" },
   { name: "CSS3", icon: "fa-css3-alt" },
   { name: "Git", icon: "fa-git-alt" },
+  {name:"Node.js",icon:"fa-node-js"}
 ];
 
 export default function Skills() {

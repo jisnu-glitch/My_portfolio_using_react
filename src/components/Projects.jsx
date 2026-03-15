@@ -25,6 +25,24 @@ const projects = [
     github: "https://github.com/ShanRomio306/Chapathi-Roundness-Checker",
     live: "https://chapathi-roundness-checker-hvxf.onrender.com/",
   },
+  {
+    title: "Go4Food",
+    description:
+      "This is a full-stack food ordering web application built using the MERN stack. It allows users to browse food items, add them to a cart, place orders, and track their order history. Admins can manage food items through a dedicated admin dashboard."
+    ,  
+    tech: ["React.js","Express.js","Mongodb","Node.js","Tailwind"],
+    github: "https://github.com/jisnu-glitch/Go4food",
+    live: "https://go4food.vercel.app",
+  },
+  {
+  title: "Choice Dental Website",
+    description:
+      "A fully responsive, modern, and professional single-page website built for Choice Dental Clinic. This project features premium scroll animations, a clean medical UI, and a direct-to-WhatsApp appointment booking system.",
+    tech: ["React.js", "Tailwind"],
+    github: "https://github.com/jisnu-glitch/choice-dental-website",
+    live: "https://choice-dental-clinic.vercel.app",
+  },
+  
 ];
 
 export default function Projects() {
@@ -34,7 +52,7 @@ export default function Projects() {
     <section className="bg-batblack text-white py-20 px-6 " id="projects">
       <div className="max-w-6xl mx-auto">
         <h2 className="font-heading text-batyellow text-5xl text-center mb-12">
-          Completed Missions
+          Completed Projects
         </h2>
 
         <div className="grid gap-8 md:grid-cols-3">
