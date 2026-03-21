@@ -20,6 +20,9 @@ This portfolio serves as a centralized hub for my professional profile, highligh
 
 ---
 
+### Live Demo
+-https://jishnuvijayan.vercel.app/
+
 ## Technology Stack
 
 ### Development Tools
@@ -101,7 +104,6 @@ The project is configured for seamless deployment via **Vercel**, with continuou
 ## Contact & Credits
 
 **Author**: Jishnu Vijayan
-**Live Demo**: https://jishnuvijayan.vercel.app/
 
 ---
 
