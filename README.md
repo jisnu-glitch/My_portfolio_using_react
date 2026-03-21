@@ -23,6 +23,8 @@ This portfolio serves as a centralized hub for my professional profile, highligh
 ### Live Demo
 -https://jishnuvijayan.vercel.app/
 
+---
+
 ## Technology Stack
 
 ### Development Tools
